@@ -1,1 +1,1 @@
-hello = lambda: 'Hello world!'
+hello = lambda: 'HOLA world!'
