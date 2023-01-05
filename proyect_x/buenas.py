@@ -1,1 +1,1 @@
-buenas= lambda: 'que tal estas'
+buenas= lambda: '¿Qué tal estás?'
